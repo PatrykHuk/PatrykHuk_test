@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636741270 source:c:\users\patryk\desktop\codeblocks\projekt - algorytmy i struktury danych_ph_testowy\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<chrono>
+
